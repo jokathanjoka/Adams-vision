@@ -35,32 +35,32 @@
       "value": ""
     },
     "AUTO_RECORDING": {
-      "description": "make it true if you want bot to show recording audio",
+      "description": "make it true if you want your bot to show recording audio",
       "required": false,
       "value": ""
     },
     "ALWAYS_ONLINE": {
-      "description": "make it true if you want bot to show always online",
+      "description": "make it true if you want your bot to show always online",
       "required": false,
       "value": ""
     },
     "AUTO_BLOCK": {
-      "description": "make it true if you want bot to auto block only 212 numbers",
+      "description": "make it true if you want bot your to auto block only 212 numbers",
       "required": false,
       "value": ""
       },
     "AUTO_REACT": {
-      "description": "make it true if you want bot to auto react",
+      "description": "make it true if you want your bot to auto react",
       "required": false,
       "value": ""
    },
     "WELCOME": {
-      "description": "make it true if you want bot to welcome people in groups",
+      "description": "make it true if you want your bot to welcome people in a groups",
       "required": false,
       "value": ""
       },
     "REJECT_CALL": {
-      "description": "make it true if you want bot to auto reject calls",
+      "description": "make it true if you want your bot to auto reject calls",
       "required": false,
       "value": ""
     },
