@@ -48,6 +48,21 @@
       "description": "make it true if you want bot to auto block only 212 numbers",
       "required": false,
       "value": ""
+      },
+    "AUTO_REACT": {
+      "description": "make it true if you want bot to auto react",
+      "required": false,
+      "value": ""
+   },
+    "WELCOME": {
+      "description": "make it true if you want bot to welcome people in groups",
+      "required": false,
+      "value": ""
+      },
+    "REJECT_CALL": {
+      "description": "make it true if you want bot to auto reject calls",
+      "required": false,
+      "value": ""
     },
     "REJECT_CALL": {
       "description": "make it true if you want to reject call",
